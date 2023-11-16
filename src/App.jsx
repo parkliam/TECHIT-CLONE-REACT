@@ -1,6 +1,10 @@
+
+import TopBanner from "./components/TopBanner";
+
 const App = () => {
   return (
     <>
+      <TopBanner />
       <div className="h-[42px] bg-purple-200">Top Banner</div>
       <header className="bg-red-100 h-16">Header</header>
       <div className="bg-blue-100 h-[400px]">Banner</div>
