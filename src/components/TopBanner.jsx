@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useEffect, useState } from "react";
 import CloseIcon from "../icons/CloseIcon";
 
 const TopBanner = () => {
